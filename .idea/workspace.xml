@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e081ccbe-5bae-44df-83a2-ea32a9cde9f7" name="Changes" comment="adding depedndecies">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/selenide/examples/BtaTest.java" afterDir="false" />
+    <list default="true" id="e081ccbe-5bae-44df-83a2-ea32a9cde9f7" name="Changes" comment="clickOnCelojumi()">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utils/HelperUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/selenide/examples/BtaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/selenide/examples/BtaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,63 @@
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.BtaTest.changeDestinationToIndia">
+    <configuration name="BtaTest.OpenBta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bta_Martins_Zvinis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.selenide.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.selenide.examples" />
+      <option name="MAIN_CLASS_NAME" value="org.selenide.examples.BtaTest" />
+      <option name="METHOD_NAME" value="OpenBta" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BtaTest.changeDestinationToIndia" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bta_Martins_Zvinis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.selenide.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.selenide.examples" />
+      <option name="MAIN_CLASS_NAME" value="org.selenide.examples.BtaTest" />
+      <option name="METHOD_NAME" value="changeDestinationToIndia" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BtaTest.clickOnCelojumi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bta_Martins_Zvinis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.selenide.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.selenide.examples" />
+      <option name="MAIN_CLASS_NAME" value="org.selenide.examples.BtaTest" />
+      <option name="METHOD_NAME" value="clickOnCelojumi" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BtaTest.changeDestinationToIndia" />
+        <item itemvalue="JUnit.BtaTest.clickOnCelojumi" />
+        <item itemvalue="JUnit.BtaTest.OpenBta" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,7 +123,28 @@
       <option name="project" value="LOCAL" />
       <updated>1690282348527</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changes to dependencies">
+      <created>1690283355107</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690283355107</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first step added">
+      <created>1690283395152</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690283395152</updated>
+    </task>
+    <task id="LOCAL-00004" summary="clickOnCelojumi()">
+      <created>1690284714097</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690284714097</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +160,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding depedndecies" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding depedndecies" />
+    <MESSAGE value="changes to dependencies" />
+    <MESSAGE value="first step added" />
+    <MESSAGE value="clickOnCelojumi()" />
+    <option name="LAST_COMMIT_MESSAGE" value="clickOnCelojumi()" />
   </component>
 </project>
