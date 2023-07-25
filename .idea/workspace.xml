@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e081ccbe-5bae-44df-83a2-ea32a9cde9f7" name="Changes" comment="clickOnCelojumi()">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Utils/HelperUtil.java" afterDir="false" />
+    <list default="true" id="e081ccbe-5bae-44df-83a2-ea32a9cde9f7" name="Changes" comment="changeDestinationToIndia() + reusable text assertion in element method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/selenide/examples/BtaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/selenide/examples/BtaTest.java" afterDir="false" />
     </list>
@@ -50,7 +49,7 @@
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.BtaTest.changeDestinationToIndia">
+  <component name="RunManager" selected="JUnit.BtaTest.OpenBta">
     <configuration name="BtaTest.OpenBta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bta_Martins_Zvinis" />
       <extension name="coverage">
@@ -62,6 +61,38 @@
       <option name="PACKAGE_NAME" value="org.selenide.examples" />
       <option name="MAIN_CLASS_NAME" value="org.selenide.examples.BtaTest" />
       <option name="METHOD_NAME" value="OpenBta" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BtaTest.OpenCelojumi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bta_Martins_Zvinis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.selenide.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.selenide.examples" />
+      <option name="MAIN_CLASS_NAME" value="org.selenide.examples.BtaTest" />
+      <option name="METHOD_NAME" value="OpenCelojumi" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BtaTest.changeActivity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bta_Martins_Zvinis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.selenide.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.selenide.examples" />
+      <option name="MAIN_CLASS_NAME" value="org.selenide.examples.BtaTest" />
+      <option name="METHOD_NAME" value="changeActivity" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,9 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BtaTest.OpenBta" />
+        <item itemvalue="JUnit.BtaTest.changeActivity" />
+        <item itemvalue="JUnit.BtaTest.OpenCelojumi" />
         <item itemvalue="JUnit.BtaTest.changeDestinationToIndia" />
         <item itemvalue="JUnit.BtaTest.clickOnCelojumi" />
-        <item itemvalue="JUnit.BtaTest.OpenBta" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690284714097</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="changeDestinationToIndia() + reusable text assertion in element method">
+      <created>1690287890651</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690287890651</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +203,7 @@
     <MESSAGE value="changes to dependencies" />
     <MESSAGE value="first step added" />
     <MESSAGE value="clickOnCelojumi()" />
-    <option name="LAST_COMMIT_MESSAGE" value="clickOnCelojumi()" />
+    <MESSAGE value="changeDestinationToIndia() + reusable text assertion in element method" />
+    <option name="LAST_COMMIT_MESSAGE" value="changeDestinationToIndia() + reusable text assertion in element method" />
   </component>
 </project>
