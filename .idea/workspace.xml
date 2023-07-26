@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e081ccbe-5bae-44df-83a2-ea32a9cde9f7" name="Changes" comment="refactoring + all other steps and methods">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e081ccbe-5bae-44df-83a2-ea32a9cde9f7" name="Changes" comment="adding readme.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +33,9 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2T3oq6wv7MaHwUqoOCiNYjeuCcy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -197,7 +197,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690369284870</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fixing typo">
+      <created>1690376602931</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1690376602931</updated>
+    </task>
+    <task id="LOCAL-00009" summary="adding readme.md">
+      <created>1690376754870</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1690376754870</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +233,8 @@
     <MESSAGE value="changeDestinationToIndia() + reusable text assertion in element method" />
     <MESSAGE value="changeActivity() + other adjustments/refactoring" />
     <MESSAGE value="refactoring + all other steps and methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring + all other steps and methods" />
+    <MESSAGE value="fixing typo" />
+    <MESSAGE value="adding readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding readme.md" />
   </component>
 </project>
