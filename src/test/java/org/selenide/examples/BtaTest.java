@@ -25,7 +25,7 @@ public class BtaTest {
     }
 
     @Test
-    public void traverPoliciesFullFlow(){
+    public void travelerPoliciesFullFlow(){
         OpenCelojumi();
 
         changeDestinationToIndia();
