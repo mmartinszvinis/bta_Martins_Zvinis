@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e081ccbe-5bae-44df-83a2-ea32a9cde9f7" name="Changes" comment="r3emoving main and bta">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e081ccbe-5bae-44df-83a2-ea32a9cde9f7" name="Changes" comment="updating java version + refactoring">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/selenide/examples/SsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/selenide/examples/SsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692030500916</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="updating java version + refactoring">
+      <created>1692040710346</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1692040710346</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,6 +272,7 @@
     <MESSAGE value="updating readme.md" />
     <MESSAGE value="adding SsTest.java" />
     <MESSAGE value="r3emoving main and bta" />
-    <option name="LAST_COMMIT_MESSAGE" value="r3emoving main and bta" />
+    <MESSAGE value="updating java version + refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating java version + refactoring" />
   </component>
 </project>
