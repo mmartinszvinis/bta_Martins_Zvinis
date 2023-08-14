@@ -25,9 +25,8 @@ public class SsTest {
         $("#filter_tbl > tbody > tr > td:nth-child(2) > input").click();*/
     }
 
-    private String lastSeenId = "#tr_53621157";
+    private String lastSeenId = "#tr_53313754";
     private final String baseUrl = "https://api.telegram.org/bot6328543239:AAHFw0238VTkGd6MCIf67Q_3vLIv380kj7o/sendMessage";
-    // private final String chatId = "1985367813";
 
     @Test
     public void monitorNewElement() throws InterruptedException {
