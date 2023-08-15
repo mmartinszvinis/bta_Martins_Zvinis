@@ -46,7 +46,7 @@ public class SsTest {
                 e.printStackTrace();
             }
             //Thread.sleep(60000);// wait 1 min
-            Thread.sleep(3000);
+            Thread.sleep(30000);
             refresh(); // Selenide refresh command
         }
     }
