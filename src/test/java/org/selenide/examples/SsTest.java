@@ -17,12 +17,12 @@ public class SsTest {
     @Before
     public void setup() {
         Configuration.headless = true;
-        open("https://www.ss.lv/lv/real-estate/flats/ventspils-and-reg/ventspils/hand_over/");
-        System.out.println("ss should be opened");
+/*        open("https://www.ss.lv/lv/real-estate/flats/ventspils-and-reg/ventspils/hand_over/");
+        System.out.println("ss should be opened");*/
 
 
-/*        open("https://www.ss.lv/lv/transport/cars/");
-        $("#filter_tbl > tbody > tr > td:nth-child(2) > input").click();*/
+        open("https://www.ss.lv/lv/transport/cars/");
+        $("#filter_tbl > tbody > tr > td:nth-child(2) > input").click();
     }
 
     private String lastSeenId = "#tr_53313754";
@@ -45,8 +45,8 @@ public class SsTest {
                 // Handle exception
                 e.printStackTrace();
             }
-            Thread.sleep(60000);// wait 1 min
-            //Thread.sleep(3000);
+            //Thread.sleep(60000);// wait 1 min
+            Thread.sleep(3000);
             refresh(); // Selenide refresh command
         }
     }
