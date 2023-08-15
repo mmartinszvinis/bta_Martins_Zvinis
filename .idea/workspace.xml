@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e081ccbe-5bae-44df-83a2-ea32a9cde9f7" name="Changes" comment="refactoring">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/selenide/examples/SsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/selenide/examples/SsTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="e081ccbe-5bae-44df-83a2-ea32a9cde9f7" name="Changes" comment="adding message to be printed when launched" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -281,7 +278,21 @@
       <option name="project" value="LOCAL" />
       <updated>1692093649979</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="adding functionality like sending all new listings and no listing sent when launched">
+      <created>1692097932817</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1692097932817</updated>
+    </task>
+    <task id="LOCAL-00020" summary="adding message to be printed when launched">
+      <created>1692098175518</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1692098175518</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -313,6 +324,8 @@
     <MESSAGE value="ref" />
     <MESSAGE value="testing some changes on vm" />
     <MESSAGE value="refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring" />
+    <MESSAGE value="adding functionality like sending all new listings and no listing sent when launched" />
+    <MESSAGE value="adding message to be printed when launched" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding message to be printed when launched" />
   </component>
 </project>
