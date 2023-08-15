@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e081ccbe-5bae-44df-83a2-ea32a9cde9f7" name="Changes" comment="adding message to be printed when launched" />
+    <list default="true" id="e081ccbe-5bae-44df-83a2-ea32a9cde9f7" name="Changes" comment="testing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -292,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692098175518</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="testing">
+      <created>1692098878133</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1692098878133</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -326,6 +333,7 @@
     <MESSAGE value="refactoring" />
     <MESSAGE value="adding functionality like sending all new listings and no listing sent when launched" />
     <MESSAGE value="adding message to be printed when launched" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding message to be printed when launched" />
+    <MESSAGE value="testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing" />
   </component>
 </project>
