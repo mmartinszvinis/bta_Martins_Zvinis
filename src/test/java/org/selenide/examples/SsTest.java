@@ -27,11 +27,13 @@ public class SsTest {
 
 
 /*        open("https://www.ss.lv/lv/real-estate/flats/ventspils-and-reg/ventspils/hand_over/");
-        System.out.println("ss should be opened");*/
+        */
 
 
 /*        open("https://www.ss.lv/lv/transport/cars/");
         $("#filter_tbl > tbody > tr > td:nth-child(2) > input").click();*/
+
+        System.out.println("ss should be opened");
     }
 
     private Set<String> seenIds = new HashSet<>();
